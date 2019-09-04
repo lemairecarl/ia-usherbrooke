@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Service d'IA de l'UdeS
 
 You can use the [editor on GitHub](https://github.com/lemairecarl/ia-usherbrooke/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
