@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 title: Service d'IA de l'UdeS
+description: Consultation en intelligence artificielle et apprentissage profond à l'Université de Sherbrooke
 github:
   is_project_page: false
