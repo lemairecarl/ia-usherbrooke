@@ -1,37 +1,14 @@
-## Service d'IA de l'UdeS
+## Services offerts
 
-You can use the [editor on GitHub](https://github.com/lemairecarl/ia-usherbrooke/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+* Analyse des besoins pour un projet
+* Entraînement et validation de modèles neuronaux profonds
+* Conception de nouveaux modèles
+* Formation (à propos des points précédents)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Équipe
 
-### Markdown
+### Carl Lemaire, M.Sc.
+Détenteur d'une maîtrise en apprentissage profond effectuée à l'Université de Sherbrooke, Carl est actuellement analyste en algorithmes d'apprentissage et en calcul de haute performance à l'Université de Sherbrooke. Il fait partie des équipes Calcul Québec et Calcul Canada.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lemairecarl/ia-usherbrooke/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Pierre-Marc Jodoin, Ph.D.
+Pierre-Marc Jodoin a reçu son doctorat du département d'informatique de l'Université de Montréal en 2007. Il est présentement professeur titulaire au département d'informatique de l'Université de Sherbrooke. Il est cofondateur d'Imeka Inc., a servi comme directeur du centre de recherche sur les environnements intelligents de l'UdeS de 2012 à 2016, et a été codirecteur de la plateforme d'analyse et de visualisation d'images, au Centre hospitalier universitaire de Sherbrooke, de 2011 à 2018.
