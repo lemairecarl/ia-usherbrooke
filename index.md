@@ -27,7 +27,10 @@ Détenteur d'une maîtrise en apprentissage profond effectuée à l'Université 
 | Projets _open source_ | Gratuit               | 61,25        |
 | Autre               | Gratuit                 | 131,25       |
 
-## Ça vous intéresse?  Voici comment procéder:
+## Ça vous intéresse?
+
+Voici comment procéder:
+
 1. Contacter Carl Lemaire
 2. Évaluation de vos besoins à travers une ou plusieurs rencontres
 3. Proposition par écrit des solutions envisageables à vos problèmes
