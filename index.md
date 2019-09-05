@@ -15,7 +15,7 @@ Pierre-Marc Jodoin a reçu son doctorat du département d'informatique de l'Univ
 
 ## Tarifs
 
-| Type d'organisation | Consultation ponctuelle | Taux horaire |
+| Type d'organisation | Rencontre initiale      | Taux horaire |
 |---------------------|-------------------------|--------------|
 | Labo UdeS           | Gratuit                 | 43,75        |
 | Labo QC             | Gratuit                 | 61,25        |
