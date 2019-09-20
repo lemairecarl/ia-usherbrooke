@@ -1,7 +1,7 @@
 ## Services offerts
 
 * Analyse des besoins pour un projet
-* Entraînement et validation de modèles d'apprentissage automatique
+* Entraînement et évaluation de modèles d'apprentissage automatique
 * Conception de nouveaux modèles
 * Formation (à propos des points précédents)
 * Formation sur l'utilisation optimale des ressources de Calcul Québec / Calcul Canada
@@ -10,9 +10,9 @@
 ## Équipe
 
 ### Carl Lemaire, M.Sc.
-Détenteur d'une maîtrise en apprentissage profond effectuée à l'Université de Sherbrooke, Carl est actuellement analyste en algorithmes d'apprentissage et en calcul de haute performance à l'Université de Sherbrooke. En tant que membre des équipes Calcul Québec et Calcul Canada, il soutient les chercheur(e)s du Québec et du Canada dans leur utilisation des superordinateurs.
+Détenteur d'une maîtrise en apprentissage profond effectuée à l'Université de Sherbrooke, Carl est actuellement analyste en algorithmes d'apprentissage et en calcul de haute performance à l'Université de Sherbrooke. En tant que membre des équipes Calcul Québec et Calcul Canada, il soutient les chercheur(e)s du Québec et du Canada dans leur utilisation de l'IA et des superordinateurs.
 
-## Direction administrative
+### Direction administrative
 
 * Pierre-Marc Jodoin, professeur titulaire, département d'informatique
 * Pierre-Étienne Jacques, professeur adjoint, département de biologie
@@ -20,12 +20,12 @@ Détenteur d'une maîtrise en apprentissage profond effectuée à l'Université 
 
 ## Tarifs
 
-| Type d'organisation | Rencontre initiale      | Taux horaire |
-|---------------------|-------------------------|--------------|
-| Labo UdeS           | Gratuit                 | 43,75        |
-| Labo QC             | Gratuit                 | 61,25        |
-| Projets _open source_ | Gratuit               | 61,25        |
-| Autre               | Gratuit                 | 131,25       |
+| Type d'organisation   | Rencontre initiale      | Taux horaire |
+|-----------------------|-------------------------|--------------|
+| Labo à l'UdeS         | Gratuit                 | 43,75        |
+| Labo au Québec        | Gratuit                 | 61,25        |
+| Projets _open source_ | Gratuit                 | 61,25        |
+| Autre                 | Gratuit                 | 131,25       |
 
 ## Ça vous intéresse?
 
@@ -36,7 +36,7 @@ Voici comment procéder:
 3. Proposition par écrit des solutions envisageables à vos problèmes
 4. Entente finale sur les services à rendre
 5. Envoi d'une soumission sur les frais encourus par ces travaux
-6. Début des travaux.
+6. Début des travaux
 
 NOTE : les étapes 1 à 5 sont sans frais. De plus, aucun frais ne seront chargés
 sans votre accord préalable.
