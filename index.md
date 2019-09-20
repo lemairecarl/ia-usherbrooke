@@ -1,3 +1,5 @@
+[English](/english.html)
+
 ## Services offerts
 
 * Analyse des besoins pour un projet
