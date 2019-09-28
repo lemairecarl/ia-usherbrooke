@@ -14,6 +14,8 @@ Having obtained a Master's degree in deep learning from the Université de Sherb
 and High Performance Computing Analyst at the Université de Sherbrooke. As a member of the Calcul Québec and Compute Canada
 teams, he supports researchers of Québec and Canada in their use of AI and supercomputers.
 
+[Resumé](https://github.com/lemairecarl/lemairecarl.github.io/raw/master/assets/Lemaire_Carl_CV.pdf)
+
 ### Management
 
 * Pierre-Marc Jodoin, Full Professor, Computer Science Department
