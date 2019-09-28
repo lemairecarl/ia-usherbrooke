@@ -14,6 +14,8 @@
 ### Carl Lemaire, M.Sc.
 Détenteur d'une maîtrise en apprentissage profond effectuée à l'Université de Sherbrooke, Carl est actuellement analyste en algorithmes d'apprentissage et en calcul de haute performance à l'Université de Sherbrooke. En tant que membre des équipes Calcul Québec et Calcul Canada, il soutient les chercheur(e)s du Québec et du Canada dans leur utilisation de l'IA et des superordinateurs.
 
+[Curriculum Vitae](https://github.com/lemairecarl/lemairecarl.github.io/raw/master/assets/Lemaire_Carl_CV.pdf)
+
 ### Direction administrative
 
 * Pierre-Marc Jodoin, professeur titulaire, département d'informatique
