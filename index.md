@@ -14,7 +14,7 @@
 ### Carl Lemaire, M.Sc.
 Détenteur d'une maîtrise en apprentissage profond effectuée à l'Université de Sherbrooke, Carl est actuellement analyste en algorithmes d'apprentissage et en calcul de haute performance à l'Université de Sherbrooke. En tant que membre des équipes Calcul Québec et Calcul Canada, il soutient les chercheur(e)s du Québec et du Canada dans leur utilisation de l'IA et des superordinateurs.
 
-* [Curriculum Vitae](https://github.com/lemairecarl/lemairecarl.github.io/raw/master/assets/Lemaire_Carl_CV.pdf)
+* [Curriculum Vitae](https://drive.google.com/file/d/1fdaG8T5lrYUaGHeAVBaQmWsQcFItA9Mk/view?usp=sharing)
 * [Site web personnel](https://lemairecarl.github.io/)
 
 ### Direction administrative
@@ -27,10 +27,10 @@ Détenteur d'une maîtrise en apprentissage profond effectuée à l'Université 
 
 | Type d'organisation   | Rencontre initiale      | Taux horaire |
 |-----------------------|-------------------------|--------------|
-| Labo à l'UdeS         | Gratuit                 | 43,75        |
-| Labo au Québec        | Gratuit                 | 61,25        |
-| Projets _open source_ | Gratuit                 | 61,25        |
-| Autre                 | Gratuit                 | 131,25       |
+| Chercheur à l'UdeS    | Gratuit                 | 41           |
+| Chercheur hors UdeS   | Gratuit                 | 50           |
+| OBNL                  | Gratuit                 | 50           |
+| Entreprises           | Gratuit                 | 105          |
 
 ## Ça vous intéresse?
 
