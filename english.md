@@ -14,7 +14,7 @@ Having obtained a Master's degree in deep learning from the Université de Sherb
 and High Performance Computing Analyst at the Université de Sherbrooke. As a member of the Calcul Québec and Compute Canada
 teams, he supports researchers of Québec and Canada in their use of AI and supercomputers.
 
-[Resumé](https://github.com/lemairecarl/lemairecarl.github.io/raw/master/assets/Lemaire_Carl_CV.pdf)
+[Resumé](https://drive.google.com/file/d/1fdaG8T5lrYUaGHeAVBaQmWsQcFItA9Mk/view?usp=sharing)
 
 ### Management
 
@@ -24,12 +24,12 @@ teams, he supports researchers of Québec and Canada in their use of AI and supe
 
 ## Rates
 
-| Organization type    | First meeting           | Hourly rate  |
-|----------------------|-------------------------|--------------|
-| Lab at UdeS          | Free                    | 43,75        |
-| Lab in Québec        | Free                    | 61,25        |
-| Open source projects | Free                    | 61,25        |
-| Other                | Free                    | 131,25       |
+| Organization type       | First meeting  | Hourly rate  |
+|-------------------------|----------------|--------------|
+| Researcher at UdeS      | Free           | 41           |
+| Researcher outside UdeS | Free           | 50           |
+| Non-profit              | Free           | 50           |
+| Business                | Free           | 105          |
 
 ## Interested?
 
