@@ -30,7 +30,7 @@ Détenteur d'une maîtrise en apprentissage profond effectuée à l'Université 
 | Chercheur à l'UdeS    | Gratuit                 | 41           |
 | Chercheur hors UdeS   | Gratuit                 | 50           |
 | OBNL                  | Gratuit                 | 50           |
-| Entreprises           | Gratuit                 | 105          |
+| Entreprise            | Gratuit                 | 105          |
 
 ## Ça vous intéresse?
 
