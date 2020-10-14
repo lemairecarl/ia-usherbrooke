@@ -26,10 +26,12 @@ teams, he supports researchers of Québec and Canada in their use of AI and supe
 
 | Organization type       | First meeting  | Hourly rate  |
 |-------------------------|----------------|--------------|
-| Researcher at UdeS      | Free           | 41           |
-| Researcher outside UdeS | Free           | 50           |
-| Non-profit              | Free           | 50           |
-| Business                | Free           | 105          |
+| Researcher at UdeS      | Free           | *           |
+| Researcher outside UdeS | Free           | *           |
+| Non-profit              | Free           | *           |
+| Business                | Free           | *           |
+
+\* We are currenty rethinking our prices; please contact Carl Lemaire for more details.
 
 ## Interested?
 
