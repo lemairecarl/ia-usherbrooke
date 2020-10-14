@@ -27,10 +27,12 @@ Détenteur d'une maîtrise en apprentissage profond effectuée à l'Université 
 
 | Type d'organisation   | Rencontre initiale      | Taux horaire |
 |-----------------------|-------------------------|--------------|
-| Chercheur à l'UdeS    | Gratuit                 | 41           |
-| Chercheur hors UdeS   | Gratuit                 | 50           |
-| OBNL                  | Gratuit                 | 50           |
-| Entreprise            | Gratuit                 | 105          |
+| Chercheur à l'UdeS    | Gratuit                 | *           |
+| Chercheur hors UdeS   | Gratuit                 | *           |
+| OBNL                  | Gratuit                 | *           |
+| Entreprise            | Gratuit                 | *          |
+
+\* Nous sommes en train de réévaluer les tarifs; contactez Carl Lemaire pour plus d'informations.
 
 ## Ça vous intéresse?
 
