@@ -7,32 +7,17 @@
 * Conception de nouveaux modèles
 * Formation (à propos des points précédents)
 * Formation sur l'utilisation optimale des ressources de Calcul Québec / Calcul Canada
-* Aide pour la mise sur pied de travaux pratiques académiques
 
 ## Équipe
 
 ### Carl Lemaire, M.Sc.
-Détenteur d'une maîtrise en apprentissage profond effectuée à l'Université de Sherbrooke, Carl est actuellement analyste en algorithmes d'apprentissage et en calcul de haute performance à l'Université de Sherbrooke. En tant que membre des équipes Calcul Québec et Calcul Canada, il soutient les chercheur(e)s du Québec et du Canada dans leur utilisation de l'IA et des superordinateurs.
 
-* [Curriculum Vitae](https://drive.google.com/file/d/1fdaG8T5lrYUaGHeAVBaQmWsQcFItA9Mk/view?usp=sharing)
-* [Site web personnel](https://lemairecarl.github.io/)
+Détenteur d'une maîtrise en apprentissage profond effectuée à l'Université de Sherbrooke, Carl est actuellement analyste en algorithmes d'apprentissage et en calcul de haute performance à l'Université de Sherbrooke. En tant que membre des équipes Calcul Québec et Calcul Canada, il soutient aussi les chercheur(e)s du Québec et du Canada dans leur utilisation de l'IA et des superordinateurs.
 
 ### Direction administrative
 
-* Pierre-Marc Jodoin, professeur titulaire, département d'informatique
 * Pierre-Étienne Jacques, professeur adjoint, département de biologie
 * Alain Veilleux, directeur du Centre de calcul scientifique de Sherbrooke
-
-## Tarifs
-
-| Type d'organisation   | Rencontre initiale      | Taux horaire |
-|-----------------------|-------------------------|--------------|
-| Chercheur à l'UdeS    | Gratuit                 | *           |
-| Chercheur hors UdeS   | Gratuit                 | *           |
-| OBNL                  | Gratuit                 | *           |
-| Entreprise            | Gratuit                 | *          |
-
-\* Nous sommes en train de réévaluer les tarifs; contactez Carl Lemaire pour plus d'informations.
 
 ## Ça vous intéresse?
 
