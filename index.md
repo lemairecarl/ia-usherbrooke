@@ -3,32 +3,29 @@
 ## Services offerts
 
 * Analyse des besoins pour un projet
-* Entraînement et évaluation de modèles d'apprentissage automatique
+* Science des données (Data Science)
+* Entraînement et évaluation de modèles d'apprentissage automatique (Machine Learning, Deep Learning)
 * Conception de nouveaux modèles
 * Formation (à propos des points précédents)
 * Formation sur l'utilisation optimale des ressources de Calcul Québec / Calcul Canada
 
 ## Équipe
 
-### Carl Lemaire, M.Sc.
+### Carl Lemaire
 
-Détenteur d'une maîtrise en apprentissage profond effectuée à l'Université de Sherbrooke, Carl est actuellement analyste en algorithmes d'apprentissage et en calcul de haute performance à l'Université de Sherbrooke. En tant que membre des équipes Calcul Québec et Calcul Canada, il soutient aussi les chercheur(e)s du Québec et du Canada dans leur utilisation de l'IA et des superordinateurs.
+Détenteur d'une maîtrise en apprentissage profond effectuée à l'Université de Sherbrooke, Carl est actuellement analyste en algorithmes d'apprentissage et en calcul de haute performance au Centre de calcul scientifique de l'Université de Sherbrooke. En tant que membre des équipes Calcul Québec et Calcul Canada, il a aussi un rôle de soutien des chercheur(e)s du Québec et du Canada dans leur utilisation de l'IA et des superordinateurs.
+
+### Karen Lopez
+
+Après avoir complété un baccalauréat en mathématiques et informatique, et avoir accumulé de l'expérience en développement de logiciels, Karen s'est jointe à l'équipe du Centre de calcul scientifique de l'UdeS. Sous la supervision de Carl Lemaire, elle développe et applique une expertise en apprentissage profond et en science des données.
 
 ### Direction administrative
 
-* Pierre-Étienne Jacques, professeur adjoint, département de biologie
 * Alain Veilleux, directeur du Centre de calcul scientifique de Sherbrooke
+* Pierre-Étienne Jacques, professeur adjoint, département de biologie
 
 ## Ça vous intéresse?
 
-Voici comment procéder:
+Rendez vous sur le site web du CCS, et cliquez sur "Demande d'évaluation de projet":
 
-1. Contacter Carl Lemaire
-2. Évaluation de vos besoins à travers une ou plusieurs rencontres
-3. Proposition par écrit des solutions envisageables à vos problèmes
-4. Entente finale sur les services à rendre
-5. Envoi d'une soumission sur les frais encourus par ces travaux
-6. Début des travaux
-
-NOTE : les étapes 1 à 5 sont sans frais. De plus, aucun frais ne seront chargés
-sans votre accord préalable.
+https://www.ccs.usherbrooke.ca/
