@@ -1,33 +1,29 @@
 ## Services
 
 * Analysis of needs for a project
-* Training and evaluation of machine learning models
-* Design of new models
-* Teaching (about the above subjects)
-* Teaching on efficient use of Calcul Québec / Compute Canada resources
+* Data Science
+* Development and evaluation of machine learning models (Deep Learning)
+* Training people on Machine Learning, Deep Learning and Data Science
+* Training people on efficient use of Calcul Québec / Compute Canada resources
 
 ## Team
 
-### Carl Lemaire, M.Sc.
+### Carl Lemaire
 
 Having obtained a Master's degree in deep learning from the Université de Sherbrooke, Carl is currently a Learning Algorithms
-and High Performance Computing Analyst at the Université de Sherbrooke. As a member of the Calcul Québec and Compute Canada
-teams, he also supports researchers of Québec and Canada in their use of AI and supercomputers.
+and High Performance Computing Analyst at the Centre de calcul scientifique of the Université de Sherbrooke. As a member of the Calcul Québec and Compute Canada teams, he also has a role of supporting researchers of Québec and Canada in their use of AI and supercomputers.
+
+### Karen Lopez
+
+After completing a degree in mathematics and computer science, and having accumulated experience in software development, Karen joined our team. Under Carl Lemaire's supervision, she develops and applies an expertise in deep learning and data science.
 
 ### Management
 
-* Pierre-Étienne Jacques, Adjuct Professor, Biology Departement
 * Alain Veilleux, director of the Centre de calcul scientifique de Sherbrooke (Centre for scientifc computing)
+* Pierre-Étienne Jacques, Adjuct Professor, Biology Departement
 
 ## Interested?
 
-Here are the steps:
+Contact us by going to the CCS website and filling a project evaluation request. Please click on "Demande d'évaluation de projet":
 
-1. Contact Carl Lemaire
-2. Evaluation of your needs through multiple meetings
-3. Written proposition of solutions to your problems
-4. Final agreement on services
-5. Quotation on costs of the work
-6. Start of work
-
-NOTE : steps 1 through 5 are free. Nothing will be charge without your consent.
+https://www.ccs.usherbrooke.ca/
