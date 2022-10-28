@@ -25,6 +25,6 @@ Après avoir complété un baccalauréat en mathématiques et informatique, et a
 
 ## Ça vous intéresse?
 
-Rendez vous sur le site web du CCS, et cliquez sur "Demande d'évaluation de projet":
+[Rendez vous sur le site web du CCS](https://www.ccs.usherbrooke.ca/), et cliquez sur "Demande d'évaluation de projet":
 
-https://www.ccs.usherbrooke.ca/
+
