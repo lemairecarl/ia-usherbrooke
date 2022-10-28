@@ -4,9 +4,8 @@
 
 * Analyse des besoins pour un projet
 * Science des données (Data Science)
-* Entraînement et évaluation de modèles d'apprentissage automatique (Machine Learning, Deep Learning)
-* Conception de nouveaux modèles
-* Formation (à propos des points précédents)
+* Développement et évaluation de modèles d'apprentissage automatique (Machine Learning, Deep Learning)
+* Formation au sujet de l'IA, de l'apprentissage automatique, de la science des données
 * Formation sur l'utilisation optimale des ressources de Calcul Québec / Calcul Canada
 
 ## Équipe
