@@ -24,6 +24,4 @@ After completing a degree in mathematics and computer science, and having accumu
 
 ## Interested?
 
-Contact us by going to the CCS website and filling a project evaluation request. Please click on "Demande d'évaluation de projet":
-
-https://www.ccs.usherbrooke.ca/
+[Contact us by going to the CCS website](https://www.ccs.usherbrooke.ca/) and filling a project evaluation request. Please click on "Demande d'évaluation de projet".
